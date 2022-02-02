@@ -4,7 +4,7 @@
 This project is a simple android application that changes the color of a string text.
 
 ### App Walk-through
-This is an animated walk-through of the app.
+Below is an animated walk-through of the app:
 
 <img src="codepath-prework screenrecord.gif" width=200><br>
 
