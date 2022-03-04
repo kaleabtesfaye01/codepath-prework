@@ -6,7 +6,7 @@ This project is a simple android application that changes the color of a string 
 ### App Walk-through
 Below is an animated walk-through of the app:
 
-<img src="codepath-prework screenrecord.gif" width=200><br>
+<img src="https://i.imgur.com/5fJ89rT.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
